@@ -1,2 +1,2 @@
 # hello-world
-This is my short description
+This is my short description and I am also just learning what all of this is about...
